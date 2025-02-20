@@ -1,6 +1,6 @@
 # F-rberedande-grupp-uppgift-Fredag-21-2
 
-# Förberedande Gruppuppgift – Boiler Room Fredag 21/02  
+# Förberedande Gruppuppgift – Boiler Room v 8 Fredag 21/2  
 ## Introduktion till vecka 9: UI-ramverk, Designprinciper & Dokumentation
 
 ---
@@ -72,7 +72,7 @@ https://github.com/matiassingers/awesome-readme
 
 ---
 
-## 🎙️ Redovisning och reflektion (vid passets slut eller efter lunch)
+## 🎙️ Avslutning och reflektion (vid passets slut eller efter lunch)
 Varje grupp går igenom:
 * **Vad hann ni med?**
 * **Vad tyckte ni om ramverket?**
