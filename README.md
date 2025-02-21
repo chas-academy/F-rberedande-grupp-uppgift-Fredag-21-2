@@ -88,8 +88,8 @@ Varje grupp går igenom:
 * [Shadcn/ui](https://ui.shadcn.com/)
 
 ### Designprinciper och inspiration:
-* [Visuell Hierarki – Medium]([https://uxdesign.cc/the-ultimate-guide-to-visual-hierarchy-in-ui-design-fbcd1d4af3e3](https://medium.com/@hoonyadee/visual-hierarchy-principles-6e0bc67f469d))
-* [UI Color Guide – Medium]([https://uxdesign.cc/ui-color-guide-10-essential-tips-994178be52f1](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e))
+* [Visuell Hierarki – Medium](https://medium.com/@hoonyadee/visual-hierarchy-principles-6e0bc67f469d)
+* [UI Color Guide – Medium](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
 * [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 ### Figma för skisser:
