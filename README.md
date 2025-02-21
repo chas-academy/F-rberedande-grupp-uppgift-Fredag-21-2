@@ -91,6 +91,7 @@ Varje grupp går igenom:
 * [Visuell Hierarki – Medium](https://medium.com/@hoonyadee/visual-hierarchy-principles-6e0bc67f469d)
 * [UI Color Guide – Medium](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
 * [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+* [Mycket användbart webbläsartillägg för att kolla konstraster för specifika element](https://colourcontrast.cc/?background=000fff&foreground=ffffff)
 
 ### Figma för skisser:
 * [Getting Started with Figma](https://help.figma.com/hc/en-us/articles/360040514513-Getting-Started-with-Figma)
