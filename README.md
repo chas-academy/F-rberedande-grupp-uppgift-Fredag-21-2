@@ -7,7 +7,7 @@
 
 ## 🏆 Syfte och mål med uppgiften:
 - Ge en praktisk förberedelse inför nästa veckas tema kring **UI-ramverk, designprinciper och dokumentation**.
-- Introducera verktyg och arbetsflöden som kommer vara centrala i det **individuella projektet**.
+- Introducera verktyg och arbetsflöden som kommer vara centrala i ert nästa **projekt**.
 - Öva på att samarbeta i grupp med fokus på **layout, UI-komponenter och dokumentation**.
 
 ---
@@ -24,7 +24,6 @@ Gruppen börjar med att tillsammans:
 
 2. Diskutera i gruppen:
    - **Vad verkar enklast/smidigast att komma igång med?**
-   - **Vilket ramverk känns mest användbart inför det individuella projektet?**
    - **Välj ett UI-ramverk** att arbeta vidare med under uppgiften.
 
 ---
@@ -37,6 +36,7 @@ Gruppen börjar med att tillsammans:
   - **Färg och kontraster**: Är text lättläst? Tillgängligt för alla?  
     *(Tips: använd [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/))*
   - **Typografi**: Läsbarhet och enhetlighet i typsnitt och storlek.
+  - OBS lägg inte för mycket tid på denna del, det viktigaste är att ni kommer igång med att sätta upp repot och börjar jobba med UI-ramverk.
 
 📖 **Figma-guide för nybörjare:**  
 https://help.figma.com/hc/en-us/articles/360040514513-Getting-Started-with-Figma
